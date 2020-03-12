@@ -1,0 +1,9 @@
+
+function U=bee_dance(bee_alg.ngh,X)
+
+  for i = length(X)
+  U=(X-ngh)+(2*ngh.*rand(size(x1,1),1));
+    U(:,2)=(x2-ngh)+(2*ngh.*rand(size(x2,1),1));
+    
+end
+

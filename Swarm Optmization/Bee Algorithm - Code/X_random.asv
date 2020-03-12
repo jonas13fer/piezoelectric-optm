@@ -1,0 +1,6 @@
+
+function U=X_random(bee_alg)
+
+   U=[bee_alg.XVmin+((rand(n,1)).*(bee_alg.XVmax-bee_alg.XVmin)), y_min+((rand(n,1)).*(y_max-y_min))];
+
+end
